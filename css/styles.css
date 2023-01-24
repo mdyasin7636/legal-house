@@ -13,3 +13,21 @@
     height: 400px;
     border-radius: 5px;
 }
+.client-img-1 {
+    background-image: url(../images/slide-1.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.client-img-2 {
+    background-image: url(../images/slide-2.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.client-img-3 {
+    background-image: url(../images/slide-3.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
